@@ -92,8 +92,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="E:\Source\Repos\GitHub\SimpleWebApplication\SimpleMVCApplication\SimpleMVCApplication.csproj">
-      <Project>{3420A6AC-9FEA-4B8B-B76E-6597DBF8A061}</Project>
+    <ProjectReference Include="..\SimpleMVCApplication\SimpleMVCApplication.csproj">
+      <Project>{3420a6ac-9fea-4b8b-b76e-6597dbf8a061}</Project>
       <Name>SimpleMVCApplication</Name>
     </ProjectReference>
   </ItemGroup>
