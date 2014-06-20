@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMVCApplication", "SimpleMVCApplication\SimpleMVCApplication.csproj", "{3420A6AC-9FEA-4B8B-B76E-6597DBF8A061}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMVCApplication.Tests", "C:\Users\chrispat\Documents\Visual Studio 2013\Projects\SimpleMVCApplication\SimpleMVCApplication.Tests\SimpleMVCApplication.Tests.csproj", "{BE1C49A1-E767-42C0-BE13-8D071517E2D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMVCApplication.Tests", "SimpleMVCApplication.Tests\SimpleMVCApplication.Tests.csproj", "{BE1C49A1-E767-42C0-BE13-8D071517E2D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
